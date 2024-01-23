@@ -22,3 +22,8 @@ for i, (name, age) in enumerate(zip(names, ages), 1):
 
 for i in enumerate(zip(names, ages), 1):
     print(i)
+
+
+#add from dave branch
+for i in enumerate('abcde', 1):
+    print(i)
